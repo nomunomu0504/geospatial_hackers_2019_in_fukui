@@ -46,7 +46,6 @@
 				08239F15C4D7E0CA72493DC4 /* Pods-GeoSpatialFukui.debug.xcconfig */,
 				62F1E7D484F121FAC2112CCA /* Pods-GeoSpatialFukui.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -335,6 +334,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6YUT7VCACN;
 				INFOPLIST_FILE = GeoSpatialFukui/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -353,6 +353,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6YUT7VCACN;
 				INFOPLIST_FILE = GeoSpatialFukui/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
